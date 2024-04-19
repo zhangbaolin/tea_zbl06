@@ -1,5 +1,5 @@
 {
-  "name": "tea_zbone",
+  "name": "tea_zbl06",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhangbaolin/tea_zbone"
+    "url": "https://github.com/zhangbaolin/tea_zbl06"
   },
-  "website": "https://github.com/zhangbaolin/tea_zbone.git",
+  "website": "https://github.com/zhangbaolin/tea_zbl06.git",
   "keywords": [
     "binance",
     "client",
@@ -20,13 +20,13 @@
   "author": "tomdan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhangbaolin/tea_zbone/issues"
+    "url": "https://github.com/zhangbaolin/tea_zbl06/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/zhangbaolin/tea_zbone#readme",
+  "homepage": "https://github.com/zhangbaolin/tea_zbl06#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
